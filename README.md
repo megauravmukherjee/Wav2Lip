@@ -55,7 +55,7 @@ You can experiment with different variations of the synchronization process:
 
 ## Evaluation
 
-Please check the `evaluation/` folder for the instructions.
+Please check the `wav2lip/evaluation/` folder for the instructions.
 
 
 
