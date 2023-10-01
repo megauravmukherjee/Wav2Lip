@@ -1,7 +1,9 @@
 # Wav2Lip
 # Lip Sync using Wav2Lip
 
-![Demo](link)
+![Input Video](https://drive.google.com/file/d/1pxut2vyao50gXhhl___x0nG9vnaOrRGU/view?usp=sharing)
+![Input Audio](https://drive.google.com/file/d/1JEXKQjpoaiatahNNtRkmshDhi5KnYn6I/view?usp=sharing)
+![Output Video](https://drive.google.com/file/d/1Zael0mLGTDifRiispRGb1ZUtJcpNeOFb/view?usp=sharing)
 
 ## Introduction
 
